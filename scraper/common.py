@@ -237,12 +237,12 @@ EXCLUDE_KEYWORDS = [
 
 
 # Phrases that contain an EXCLUDE_KEYWORDS word but describe a whole aircraft
-# ("Cessna 140 on floats", "on tundra tires"), stripped from the title before
+# ("Clipped Wing Cub", "Super Cub on floats", "Kit Fox"), stripped from the title before
 # the keyword check so they don't get the ad thrown out as a parts listing.
 ALLOWED_PHRASES = [
     "clipped wing", "on floats", "with floats", "w floats", "on amphib floats",
     "on skis", "with skis", "w skis", "kit built", "kitbuilt", "on tundra tires", "with tundra tires",
-    "w tundra tires", "tri gear", "tricycle gear", "conventional gear",
+    "w tundra tires", "kit fox", "tri gear", "tricycle gear", "conventional gear",
 ]
 
 
